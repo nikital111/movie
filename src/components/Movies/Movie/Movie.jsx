@@ -18,7 +18,7 @@ const Movie = props => {
     
     return(
         <div className="mainFilm">
-            <img src={poster} alt="film image"/>
+            <img src={poster} alt="film"/>
             <div className="description">
                <b>Title:{data.Title}</b>
                <b>Year: {data.Year}</b>
