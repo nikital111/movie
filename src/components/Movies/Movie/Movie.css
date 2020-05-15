@@ -1,15 +1,14 @@
 .mainFilm {
-    display: flex;
-    max-width: 100%;
-    justify-content: left;
+  display: flex;
+  max-width: 100%;
+  justify-content: left;
 }
 
 .description {
-    margin: 0px 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    line-height: 1.5;
-    
+  margin: 0px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  line-height: 1.5;
 }
